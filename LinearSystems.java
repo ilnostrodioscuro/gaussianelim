@@ -1,10 +1,6 @@
 /*
- * Ray Murdorf
- * 2/22/2024
- * CS 479
- * LinearSystems
- * 
- * Performs Gaussian elimination with scaled partial pivoting on a given augmented matrix
+ * By Ray Murdorf
+ * Licensed under CC-BY-NC-SA 4.0
  */
 
  import java.util.Scanner;
